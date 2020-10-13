@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e\\src",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\upload-images",
+    "\\src\\app\\services",
+    "\\src\\controller",
+    "\\src\\middleware",
+    "\\src\\routes"
+  ],
+  "SelectedNode": "\\src\\controller\\file.controller.js",
+  "PreviewInSolutionExplorer": false
+}
